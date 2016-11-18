@@ -14,7 +14,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>IP定位</title>
-    <link rel="shortcut icon" href="image/favi.ico" />
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrapValidator.min.css"/>
     <link rel="stylesheet" href="css/flat-ui.css"/>
