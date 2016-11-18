@@ -1,0 +1,4 @@
+//修改项目的显示语言
+
+*.css linguist-language=php
+*.js linguist-language=php
