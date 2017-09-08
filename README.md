@@ -3,8 +3,8 @@
 
 >定位成功后输出位置信息
 
-![](https://github.com/evilchurch/ip_locating/blob/master/screenshot/1.png)
+![](screenshot/1.png)
 
 >定位失败后提示错误信息
 
-![](https://github.com/evilchurch/ip_locating/blob/master/screenshot/2.png)
+![](screenshot/2.png)
